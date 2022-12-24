@@ -1,12 +1,12 @@
-# Luke's Auto-Rice Bootstrapping Scripts (LARBS)
+# Adam's New User System
 
 ## Installation:
 
 On an Arch-based distribution as root, run the following:
 
 ```
-curl -LO larbs.xyz/larbs.sh
-sh larbs.sh
+curl -LO https://adamcolaianni.us/anus.sh
+sh anus.sh
 ```
 
 That's it.
