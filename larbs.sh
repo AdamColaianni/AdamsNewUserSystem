@@ -1,14 +1,14 @@
 #!/bin/sh
 
-# Luke's Auto Rice Boostrapping Script (LARBS)
-# by Luke Smith <luke@lukesmith.xyz>
+# Adam's New User System
+# by Adam Colaianni
 # License: GNU GPLv3
 
 ### OPTIONS AND VARIABLES ###
 
-dotfilesrepo="https://github.com/lukesmithxyz/voidrice.git"
-progsfile="https://raw.githubusercontent.com/LukeSmithxyz/LARBS/master/progs.csv"
-aurhelper="yay"
+dotfilesrepo="https://github.com/AdamColaianni/archrice.git"
+progsfile="https://raw.githubusercontent.com/AdamColaianni/AdamsNewUserSystem/master/progs.csv"
+aurhelper="paru"
 repobranch="master"
 
 ### FUNCTIONS ###
